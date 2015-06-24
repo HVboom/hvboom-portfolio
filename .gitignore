@@ -1,0 +1,6 @@
+**/.sass-cache
+**/._*
+**/.*.swp
+**/*~
+vendor/*
+!**/.gitkeep
